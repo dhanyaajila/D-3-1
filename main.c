@@ -1,4 +1,4 @@
-//directory
+//directory change
 #include <stdio.h>
 #include <dirent.h>
 
